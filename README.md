@@ -4,3 +4,4 @@
 //Next i have merged both the branches
 //Now I am stashing some changes in the new branch and next i will apply them to newbranch
 //I have rebased the changes and then pushed it to remote repository
+//Now i am doing cherry-pick of a commit fom main branch to newbranch
