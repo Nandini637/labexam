@@ -3,3 +3,4 @@
 //Now I have switched to new branch then i am doing some changes idn the readme file then i will add it and commit the changes
 //Next i have merged both the branches
 //Now I am stashing some changes in the new branch and next i will apply them to newbranch
+//I have rebased the changes and then pushed it to remote repository
